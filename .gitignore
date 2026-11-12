@@ -1,0 +1,56 @@
+# =====================================
+# JAVA - NETBEANS
+# =====================================
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Carpetas generadas por NetBeans
+**/build/
+**/dist/
+**/nbproject/private/
+**/nbbuild/
+**/nbdist/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# =====================================
+# OTROS IDE
+# =====================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# VS Code
+.vscode/
+
+# =====================================
+# SISTEMA OPERATIVO
+# =====================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+.Trash-*
